@@ -5,6 +5,7 @@ This is a data analysis project on a provided dataset with the end goal of extra
 Project Summary
 
 1. Assets:
+
    1.1 Dataset
 
    Dataset Summary:
@@ -19,13 +20,13 @@ Project Summary
    - Customer Data : Customer Segment, Customer Name
    - Shipping Data : Shipping Method, Shipping Dates
 
-2. To Do:
+3. To Do:
    - EDA and summarize data
    - Model & expand data
    - Visualize Date
 
 
-3. Tools Used:
+4. Tools Used:
    - Excel
    - SQL Server Management Studio
    - Power BI
